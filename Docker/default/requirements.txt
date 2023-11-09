@@ -1,0 +1,16 @@
+# common
+selenium
+requests
+fake-useragent
+numpy
+pandas
+
+beautifulsoup4
+lxml
+openpyxl
+Pillow==9.5.0
+
+#PyMySQL
+#suds
+#cx_Oracle
+#prettytable
